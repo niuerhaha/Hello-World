@@ -24,7 +24,7 @@
 
 项目运行成功，模拟器中显示了 `Hello Android!`，说明项目创建、编译和安装都正常。
 
-![运行结果](android-hello-android.png)
+<img width="1549" height="998" alt="image" src="https://github.com/user-attachments/assets/ac6fd2ea-dd6a-4212-8c24-8527a5a3402e" />
 
 ## 五、实验总结
 
